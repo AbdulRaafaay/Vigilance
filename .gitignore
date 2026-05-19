@@ -32,6 +32,4 @@ src/metadata.pkl
 src/models/forensic_vdb.index
 
 
-*.txt
-run_audit.py
 ./scratch/
